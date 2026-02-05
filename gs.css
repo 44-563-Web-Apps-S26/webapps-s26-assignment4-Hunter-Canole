@@ -1,0 +1,40 @@
+.speech {
+    font-family: "Times New Roman", serif;
+    font-size: 1.1em;
+    color: black;
+    font-weight: bold;
+}
+.song {
+    font-family: "Arial", sans-serif;
+    font-size: 1.0em;
+    color: black;
+    font-weight: bold;
+}
+.direction {
+    font-family: "Courier New", monospace;
+    font-size: 1.5em;
+    color: black;
+    font-weight: bold;
+}
+.direction:hover {
+    background-color: #add8e6;
+}
+
+.name {
+    font-family: "Verdana", sans-serif;
+    font-size: 2.0em;
+    color: black;
+    font-weight: bold;
+}
+.lud{
+ color: blue;
+}
+.Julia{
+ color: red;
+}
+.aside{
+ color: green;
+}
+.aloud{
+color:orange
+}
