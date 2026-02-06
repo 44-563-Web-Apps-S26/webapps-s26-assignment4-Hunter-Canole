@@ -24,6 +24,10 @@
     color: black;
     font-weight: bold;
 }
+.name:hover{
+       text-shadow:2px 3px 5px green;
+       border: 5px solid blue;
+}
 .LUD{
  color: blue;
 }
